@@ -1,7 +1,3 @@
-That's a great idea\! A clear and organized `README.md` is essential for any project. Here is a comprehensive and well-structured README for your **ESP32-MongoTimer** project, incorporating all your required content.
-
------
-
 # ⏱️ ESP32-MongoTimer: Full Stack IoT Data Logger
 
 ## Project Overview
