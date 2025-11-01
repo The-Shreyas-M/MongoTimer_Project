@@ -1,0 +1,17 @@
+# Node.js dependencies
+/node_modules
+
+# Configuration and Secrets
+Mongo.txt
+
+# Build artifacts (common)
+*.log
+*.zip
+*.tar
+.DS_Store
+
+package-lock.json
+package.json
+
+# Arduino/Embedded files (if 'ESP32' is a sketch folder)
+# This ignores the entire folder that holds the .ino and binary files.
